@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sungil Kim
 
 # Username (this should match the folder name)
 authors:
