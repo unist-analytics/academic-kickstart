@@ -74,10 +74,8 @@ user_groups:
 - Visitors
 ---
 
-Sungil Kim, Ph.D., is an assistant professor in the school of management engineering at the Ulsan National Institute of Science and Technology (UNIST). He is an expert in the following methodologies and applications.
+Sungil Kim, Ph.D., is an assistant professor in the school of management engineering at the Ulsan National Institute of Science and Technology (UNIST). 
+I especially focus on developement of novel statistical methods for solving complex engineering problems.
 
-Methodologies;
-Machine learning, Data mining, Big data analysis, Demand Sensing, Demand forecasting, Pattern recognition, Predictive analytics, Real-time analytics, Spatial statistics, Design of experiments, Robust parameter design, Uncertainty quantification, Hierarchical modeling, Spatial-temporal data modeling
 
-Applications;
-Service engineering, Retailing, Consumer Packaged Goods, Logistics, Supply chain management, Nanotechnology
+
