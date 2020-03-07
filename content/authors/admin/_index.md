@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Ulsan National Institute of Science and Technology(UNIST)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Industrial Statistics and Data Analytics; Quality Engineering and Management; Response surface
+methodology; Demand forecasting; Machine learning and Data mining; Business Analytics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Industrial Statistics
+- Quality Engineering and Management
+- Machine learning and Data mining
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Industrial Engineering
+    institution: Georgia Institute of Technology
+    year: 2011
+  - course: MS in Statistics
+    institution: Georgia Institute of Technology
+	year: 2007
+  - course: MS in Industrial Engineering
+    institution: Georgia Institute of Technology
+    year: 2007
+  - course: BSc in Industrial Engineering
+    institution: Yonsei University
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +48,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "mailto:sungil.kim@unist.ac.kr".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +74,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sungil Kim, Ph.D., is an assistant professor in the school of management engineering at the Ulsan National Institute of Science and Technology (UNIST). He is an expert in the following methodologies and applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Methodologies;
+Machine learning, Data mining, Big data analysis, Demand Sensing, Demand forecasting, Pattern recognition, Predictive analytics, Real-time analytics, Spatial statistics, Design of experiments, Robust parameter design, Uncertainty quantification, Hierarchical modeling, Spatial-temporal data modeling
+
+Applications;
+Service engineering, Retailing, Consumer Packaged Goods, Logistics, Supply chain management, Nanotechnology
