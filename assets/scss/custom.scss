@@ -12,3 +12,20 @@ nav#navbar-main li.nav-item {
   margin: 0 auto;
   object-fit: cover;
 }
+
+
+.experience .card-text,
+.experience .card-text p {
+  color: #000 !important;
+  font-size: 0.85rem !important;
+}
+
+
+
+html {
+  font-family: $sta-font-body, sans-serif;
+  font-size: 17px;
+  color: rgba(0,0,0,0.8);
+  line-height: 1.65;
+}
+
