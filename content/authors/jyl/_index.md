@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine learning and Deep learning. Specialized field of application is traffic congestion propagation. 
+bio: 
 
 interests:
 - Industrial Statistics
-- Machine learning and Data mining
+- Machine learning and Deep Learning
 - Reinforcement learning
 - Traffic congestion propagation 
 
@@ -65,6 +65,6 @@ user_groups:
 - Researchers
 ---
 
-
+My research interests include Machine learning and Deep learning. Specialized field of application is traffic congestion propagation. 
 
 
