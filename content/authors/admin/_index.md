@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Industrial Statistics and Data Analytics, Quality Engineering and Management, Response surface methodology, Demand forecasting, Machine learning and Data mining, Business Analytics.
+bio: 
 
 interests:
 - Industrial Statistics
@@ -64,12 +64,19 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Professors
+
 ---
 
-Sungil Kim, Ph.D., is an assistant professor in the school of management engineering at the Ulsan National Institute of Science and Technology (UNIST). 
-I especially focus on developement of novel statistical methods for solving complex engineering problems.
+
+Welcome to the Data Analytics Lab at the Ulsan National Institute of Science and Technology (UNIST). 
+Our research focuses on developement of novel statistical methods for solving complex engineering problems.
+Our team pursues leading-edge research in the field of data science and business analytics with industry, government, and community partners. Our research can be characterized by three aspects: i) statistics as a research methodology, ii) motivation from real data, and iii) applications to industry."
+
+
+The Principal Investigator, Sungil Kim, Ph.D., is an assistant professor in the school of management engineering. His research interests include industrial statistics and data analytics, quality engineering and management, and machine learning and data mining.
+He has served in a number of leadership positions at UNIST, domestically, and internationally. 
+For more details, you can find his vitae.
 
 
 

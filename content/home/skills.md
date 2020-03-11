@@ -1,13 +1,12 @@
 +++
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+headless = false  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
-title = "Skills"
-subtitle = ""
-
+title = "Research Areas"
+subtitle = "Data Analytics Lab pursues leading-edge research in the following areas:"
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
@@ -15,21 +14,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "industry"
+  icon_pack = "fas"
+  name = "Artificial Intelligence in Quality Engineering"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "System Monitoring & Anomaly Detection"
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "object-ungroup"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Sequential Learning, Large-scale Calibration, and Uncertainty Quantification"
+  description = ""
 
 +++
