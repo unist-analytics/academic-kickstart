@@ -71,7 +71,7 @@ user_groups:
 
 Welcome to the Data Analytics Lab at the Ulsan National Institute of Science and Technology (UNIST). 
 Our research focuses on developement of novel statistical methods for solving complex engineering problems.
-Our team pursues leading-edge research in the field of data science and business analytics with industry, government, and community partners. Our research can be characterized by three aspects: i) statistics as a research methodology, ii) motivation from real data, and iii) applications to industry."
+Our team pursues leading-edge research in the field of data science and business analytics with industry, government, and community partners. Our research can be characterized by three aspects: i) statistics as a research methodology, ii) motivation from real data, and iii) applications to industry.
 
 
 The Principal Investigator, Sungil Kim, Ph.D., is an assistant professor in the school of management engineering. His research interests include industrial statistics and data analytics, quality engineering and management, and machine learning and data mining.
