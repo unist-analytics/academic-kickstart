@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mixture Gases Classification"
+title: "Stowage Plan for Container Ships"
 summary: ""
-authors: [jhl,oh,admin]
-tags: [Quality Engineering,Statistics]
+authors: [jo,admin]
+tags: [Statistics,Optimization]
 categories: []
 date: 2020-03-10T19:03:27+09:00
 
