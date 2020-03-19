@@ -30,10 +30,10 @@ education:
   courses:
   - course: MS in Industrial Engineering
     institution: Ulsan National Institute of Science and Technology(UNIST)
-    year: 2019
+    year: 
   - course: BSc in Business and Economics
     institution: Handong University
-    year: 2014
+    year: 2018
 
 
 
