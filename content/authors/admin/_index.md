@@ -14,7 +14,7 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Ulsan National Institute of Science and Technology(UNIST)
+- name: Department of Industrial Engineering, UNIST
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
