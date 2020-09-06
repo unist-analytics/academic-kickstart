@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:guswjd8449@unist.ac.kr   # For a direct email link, use "mailto:guswjd8449@unist.ac.kr".
+  link: mailto:guswjd8449@unist.ac.kr   
 - icon: github
   icon_pack: fab
   link: https://github.com/v0001
@@ -58,9 +58,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
----
 
-Kwonin Yoon is a MS student in the school of Industrial Engineering at the Ulsan National Institute of Science and Technology (UNIST). 
+---
+Kwonin Yoon is a MS student in the Department of Industrial Engineering at the Ulsan National Institute of Science and Technology (UNIST). 
 I'm interested in the research about optimization problems, Machine Learning and Deep Learning to find out the empirical method for maritime and logistics industry. 
 
 
