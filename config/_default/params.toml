@@ -89,7 +89,7 @@ phone = "052.217.3195"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "10, Techno saneop-ro 55beon-gil, Nam-gu", city = "Ulsan", region = "", postcode = "44776", country = "Republic of Korea", country_code = "KR"}
+address = {street = "112 Bldg, 301-8, 50 UNIST-gil", city = "Ulsan", region = "", postcode = "44919", country = "Republic of Korea", country_code = "KR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
