@@ -60,8 +60,6 @@ user_groups:
 - Researchers
 ---
 
-영문소개
-
 Kwonin Yoon is a MS student in the school of Industrial Engineering at the Ulsan National Institute of Science and Technology (UNIST). 
 I'm interested in the research about optimization problems, Machine Learning and Deep Learning to find out the empirical method for maritime and logistics industry. 
 

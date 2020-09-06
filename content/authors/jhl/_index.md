@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Juhui Lee is a MS candidate student in the school of management engineering at the Ulsan National Institute of Science and Technology (UNIST).
