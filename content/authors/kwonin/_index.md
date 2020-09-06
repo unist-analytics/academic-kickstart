@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:guswjd8449@unist.ac.kr" #'#contact'  # For a direct email link, use "mailto:guswjd8449@unist.ac.kr".
+  link: mailto:guswjd8449@unist.ac.kr   # For a direct email link, use "mailto:guswjd8449@unist.ac.kr".
 - icon: github
   icon_pack: fab
   link: https://github.com/v0001
