@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:sugyeong.jo@unist.ac.kr".
+  link: mailto:sugyeong.jo@unist.ac.kr  # For a direct email link, use "mailto:sugyeong.jo@unist.ac.kr".
 - icon: github
   icon_pack: fab
   link: https://github.com/sugyeong-jo
