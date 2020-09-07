@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Combined MS/PhD 
+    institution: Artificial Intelligence Graduate School, Ulsan National Institute of Science and Technology
+    year: 2020~
   - course: BSc in Mathematics with Specialization in Business Applications
     institution: De La Salle University
     year: 2017
