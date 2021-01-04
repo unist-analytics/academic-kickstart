@@ -56,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Jaemin Park, M.S., is a MS student in the school of management engineering at the Ulsan National Institute of Science and Technology (UNIST). 

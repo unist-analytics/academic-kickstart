@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Interns
+role: MS Student
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: BSc in Mathematics
     institution: UNIST
-    year: 
+    year: 2021
 
 
 
@@ -59,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Intern
+- Researchers
 ---
 
 I'm interested in the Data Analytics in industry data, especially in traffic congestion problem. Also interested in studying Deep learning and Machine learning
