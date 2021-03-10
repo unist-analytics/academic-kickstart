@@ -26,6 +26,9 @@ interests:
 
 education:
   courses:
+  - course: MS in Artificial Intelligence Graduate School
+    institution: Ulsan National Institute of Science and Technology
+    year: 2021~
   - course: BS in Mathematics (Data science track)
     institution: University of Central Arkansas
     year: 2019
@@ -40,10 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:kohgiheon@unist.ac.kr".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: "mailto:kohgiheon@unist.ac.kr"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/giheon-koh

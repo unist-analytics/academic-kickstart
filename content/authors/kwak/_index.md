@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: MS in Artificial Intelligence Graduate School
+    institution: Ulsan National Institute of Science and Technology
+    year: 2021~
   - course: BSc in Mathematics
     institution: UNIST
     year: 2021

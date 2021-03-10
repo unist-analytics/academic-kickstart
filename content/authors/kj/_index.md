@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Industrial Statistics and Data Analytics, Machine learning and Data mining.
+bio: 
 
 interests:
 - Industrial Statistics
@@ -44,10 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:kgj1995@unist.ac.kr".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: "mailto:kgj1995@unist.ac.kr"
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=BISaBGoAAAAJ&hl=ko
@@ -63,10 +60,7 @@ email: ""
 user_groups:
 - Researchers
 ---
-
-#Sungil Kim, Ph.D., is an assistant professor in the school of management engineering at the Ulsan National Institute of Science and Technology (UNIST). 
-#I especially focus on developement of novel statistical methods for solving complex engineering problems.
-
+My research interests include Industrial Statistics and Data Analytics, Machine learning and Data mining.
 
 
 
