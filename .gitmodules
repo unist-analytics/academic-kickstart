@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/unist-analytics/unist-analytics.github.io.git
 	branch = master
+[submodule "unist-analytics.github.io"]
+	path = unist-analytics.github.io
+	url = https://github.com/unist-analytics/unist-analytics.github.io.git
+	branch = master
