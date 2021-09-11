@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Juyeong Lee
+name: Jitae Yoo
 
 # Username (this should match the folder name)
-authors:
-- jyl
+authors: 
+- jitae
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MS Student 
+role: Combined Master-Doctor
 
 # Organizations/Affiliations
 organizations:
@@ -21,19 +21,18 @@ organizations:
 bio: 
 
 interests:
-- Industrial Statistics
-- Machine learning and Deep Learning
-- Reinforcement learning
-- Traffic congestion propagation 
+- Industrial Stastics
+- Machine learning and Deep learning
+- Data Mining for Quality Control 
 
 education:
   courses:
-  - course: MS in Industrial Engineering
+  - course: MS in Artificial Intelligence Graduate School
     institution: Ulsan National Institute of Science and Technology(UNIST)
-    year: 2021
-  - course: BSc in Business and Economics
-    institution: Handong University
-    year: 2018
+    year: 2021~
+  - course: BSc in Management
+    institution: Ulsan National Institute of Science and Technology(UNIST)
+    year: 2020
 
 
 
@@ -45,16 +44,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:passionlee428@unist.ac.kr  # For a direct email link, use "mailto:passionlee428@unist.ac.kr".
-#- icon: twitter
+  link: mailto:jitaeyoo@unist.ac.kr  # For a direct email link, use "mailto:jitaeyoo@unist.ac.kr".
+#- icon: github
 #  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+#  link: 깃허브주소
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=BISaBGoAAAAJ&hl=ko
-#- icon: cv
+#  link: 구글스칼라주소
+# - icon: cv
 #  icon_pack: ai
-#  link: files/cv.pdf
+#  link: files/cv파일이 있으면 보내주고...
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -62,9 +62,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---
 
-My research interests include Machine learning and Deep learning. Specialized field of application is traffic congestion propagation. 
+
+Jitae Yoo is a Combined Master-Doctor candidate at UNIST, majoring in Artificial Intelligence. His research interests include industrial stastics, machine learning and deep learning, and data mining for quality control.
 
 
