@@ -56,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Researchers
 ---
 
 SeungSu Kam is a Combined Master-Doctor candidate in the school of industrial engineering at the Ulsan National Institute of Science and Technology (UNIST). 

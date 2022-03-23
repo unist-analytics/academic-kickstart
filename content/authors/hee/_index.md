@@ -41,19 +41,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:heesun0718@unist.ac.kr".
-- icon: github
-  icon_pack: fab
-  link: 깃허브주소
-- icon: google-scholar
-  icon_pack: ai
-  link: 구글스칼라주소
+#- icon: github
+#  icon_pack: fab
+#  link: 깃허브주소
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: 구글스칼라주소
 #- icon: cv
 #  icon_pack: ai
 #  link: files/cv파일이 있으면 보내주고...
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "heesun0718@unist.ac.kr"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
