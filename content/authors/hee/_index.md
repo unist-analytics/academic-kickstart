@@ -1,3 +1,4 @@
+---
 # Display name
 name: Heesun Kim
 
@@ -59,8 +60,6 @@ email: "heesun0718@unist.ac.kr"
 user_groups:
 - Researchers
 ---
-
-영문소개
 
 I have been working for LG Electronics, since 2012. 
 I've mainly conducted research into the control of Home appliance system based on machine learning with experimental data (R&D Engineer)
