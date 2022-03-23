@@ -69,6 +69,3 @@ user_groups:
 
 My research interests include data analytics, machine learning and data mining, and anomaly detection.
 
-I 
-
-
